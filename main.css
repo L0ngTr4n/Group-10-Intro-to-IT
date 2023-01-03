@@ -1,15 +1,12 @@
-.top_container 
-{
-    background-color: #f1f1f1;
-    padding: 0;
-    text-align: center;
-  }
-
 .header
 {
-    padding: 10px 16px;
+    padding: 16px 0px;
     background-color: green ;
     color: white;
+    width: 100%;
+    height: auto;
+    position: fixed;
+    top: 0;
 }
 .sticky
 {
@@ -20,4 +17,17 @@
 body
 {
     margin: 0;
+    padding-top: 90px;
+}
+#navBar
+{
+    display: block;
+    background-color: green ;
+    float: left;
+    padding: 0px;
+    width: 100%;
+}
+#navBar *
+{
+    float: left;
 }
