@@ -1,33 +1,54 @@
-.header
+.bar
 {
     padding: 16px 0px;
     background-color: green ;
     color: white;
     width: 100%;
     height: auto;
-    position: fixed;
+    position: sticky;
     top: 0;
 }
 .sticky
 {
-    position: fixed;
+    position: sticky;
     width: 100%;
     top: 0;
 }
 body
 {
     margin: 0;
-    padding-top: 90px;
+    padding-top: 0;
 }
-#navBar
+#navBar 
 {
-    display: block;
-    background-color: green ;
-    float: left;
+    background-color: green ;;
     padding: 0px;
     width: 100%;
+    padding-bottom: 0.83em;
+    align-items: center;
+    text-align: center;
+    
 }
 #navBar *
 {
-    float: left;
+    display: inline-block;
+}
+.header
+{
+    background-color: green;
+}
+h2
+{
+    text-align: center;
+    margin: 0;
+}
+#topBar *
+{
+    text-decoration: none;
+}
+li
+{
+    list-style-type: none;
+    padding-left: 10px;
+    text-align: center;
 }
