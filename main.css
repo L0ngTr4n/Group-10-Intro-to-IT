@@ -1,7 +1,7 @@
 .bar
 {
     padding: 16px 0px;
-    background-color: green ;
+    background-color: green;
     color: white;
     width: 100%;
     height: auto;
@@ -21,21 +21,23 @@ body
 }
 #navBar 
 {
-    background-color: green ;;
+    background-color: red ;
     padding: 0px;
     width: 100%;
     padding-bottom: 0.83em;
     align-items: center;
     text-align: center;
-    
 }
 #navBar *
 {
+    font-size: large;
     display: inline-block;
 }
 .header
 {
-    background-color: green;
+    background-color: blue;
+    padding-top: 30px;
+    padding-bottom: 20px;
 }
 h2
 {
@@ -49,6 +51,14 @@ h2
 li
 {
     list-style-type: none;
-    padding-left: 10px;
+    padding-left: 30px;
     text-align: center;
+}
+a:hover
+{
+    color: blue;
+}
+a:active
+{
+    color: red;
 }
