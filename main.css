@@ -68,6 +68,7 @@ a:active
 }
 .subHeader
 {
+    padding-top: 10px;
     margin: 0;
 }
 .name
