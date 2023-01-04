@@ -39,7 +39,7 @@ body
     padding-top: 30px;
     padding-bottom: 20px;
 }
-h2
+.topHeader
 {
     text-align: center;
     margin: 0;
@@ -61,4 +61,20 @@ a:hover
 a:active
 {
     color: red;
+}
+.smallHeader
+{
+    margin-bottom: 0;
+}
+.subHeader
+{
+    margin: 0;
+}
+.name
+{
+    margin: 0;
+}
+.personalInformation
+{
+    margin: 0;
 }
