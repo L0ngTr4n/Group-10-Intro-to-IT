@@ -1,7 +1,7 @@
 .bar
 {
     padding: 16px 0px;
-    background-color: green;
+    background-color: #555;
     color: white;
     width: 100%;
     height: auto;
@@ -16,17 +16,18 @@
 }
 body
 {
-    margin: 0;
+    margin: 0px;
     padding-top: 0;
+    background-color: white;
 }
 #navBar 
 {
-    background-color: red ;
+    background-color: #555 ;
     padding: 0px;
     width: 100%;
-    padding-bottom: 0.83em;
     align-items: center;
     text-align: center;
+    overflow: hidden;
 }
 #navBar *
 {
@@ -47,12 +48,15 @@ body
 #topBar *
 {
     text-decoration: none;
+    color: white;
+    
 }
 li
 {
     list-style-type: none;
-    padding-left: 30px;
-    text-align: center;
+    padding-left: 4.1%;
+    padding-right: 4.2%;
+
 }
 a
 {
@@ -87,4 +91,8 @@ a:active
 {
     border: 1px solid black;
     width: auto;
+}
+#navBarButton:hover
+{
+    color: blue;
 }
