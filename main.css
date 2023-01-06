@@ -38,20 +38,18 @@ body
     padding-top: 30px;
     padding-bottom: 20px;
     color: black;
-}
-.topHeader
-{
-    text-align: center;
-    margin: 0;
-}
-.background-header
-{
     background-image: url('Gearvn_hính nền tối giản_ (2).jpg');
     background-size: cover;
     background-repeat: no-repeat;
     width:100%;
     height:100%;
 }
+.topHeader
+{
+    text-align: center;
+    margin: 0;
+}
+
 #topBar *
 {
     text-decoration: none;
