@@ -38,7 +38,6 @@ body
     padding-top: 30px;
     padding-bottom: 20px;
     color: black;
-    background-image: url('Gearvn_hính nền tối giản_ (2).jpg');
     background-size: cover;
     background-repeat: no-repeat;
     width:100%;
@@ -78,6 +77,7 @@ a:active
 .smallHeader
 {
     margin-bottom: 0;
+    margin-left: 20%;
 }
 .subHeader
 {
@@ -101,12 +101,14 @@ a:active
 {
     color: black;
 }
-img
-{
-    float: left;
-}
-.Info_1
+
+.Top_info_1
 {
     margin-left: 20%;
     margin-right: 20%;
+    font-size: 120%;
+}
+.avatar
+{
+    margin-left: auto;
 }
