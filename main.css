@@ -110,7 +110,9 @@ a:active
     margin-right: 20%;
     font-size: 120%;
 }
-.avatar
+img
 {
-    margin-left: auto;
+    width: 20%;
+    height: 20%;
+    float: left;
 }
