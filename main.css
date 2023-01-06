@@ -94,7 +94,7 @@ a:active
 {
     margin: 0;
 }
-.assessmentTable, th, td 
+.assessmentTable1, .assessmentTable2, .assessmentTable3
 {
     border: 1px solid black;
     width: auto;
@@ -104,15 +104,22 @@ a:active
     color: black;
 }
 
-.Top_info_1
+
+.Top_info img
 {
-    margin-left: 20%;
-    margin-right: 20%;
-    font-size: 120%;
+    width: 100%;
+    height: auto;
 }
-img
+.Top_info table
 {
-    width: 20%;
-    height: 20%;
-    float: left;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+.Top_info table td
+{
+    width: 50%;
+}
+.Top_info h3, .Top_info h4, .Top_info p, .Top_info a
+{
+    font-size: 120%;
 }
