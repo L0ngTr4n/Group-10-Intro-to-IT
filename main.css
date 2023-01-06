@@ -44,9 +44,9 @@ body
     text-align: center;
     margin: 0;
 }
-.background-header
+.background_header
 {
-    background-image: url('Gearvn_hính nền tối giản_ (2).jpg');
+    background-image: url('photo/Gearvn_hính nền tối giản_ (2).jpg');
     background-size: cover;
     background-repeat: no-repeat;
     width:100%;
@@ -80,6 +80,7 @@ a:active
 .smallHeader
 {
     margin-bottom: 0;
+    margin-left: 20%;
 }
 .subHeader
 {
@@ -106,9 +107,12 @@ a:active
 img
 {
     float: left;
+    align-items: center;
+    width: 50%;
 }
-.Info_1
+.Top_info
 {
-    margin-left: 20%;
+    margin-left: 50%;
     margin-right: 20%;
+    font-size: 120%;
 }
