@@ -104,15 +104,14 @@ a:active
 {
     color: black;
 }
-img
+
+.Top_info_1
 {
-    float: left;
-    align-items: center;
-    width: 50%;
-}
-.Top_info
-{
-    margin-left: 50%;
+    margin-left: 20%;
     margin-right: 20%;
     font-size: 120%;
+}
+.avatar
+{
+    margin-left: auto;
 }
