@@ -38,7 +38,7 @@ body
     padding-top: 30px;
     padding-bottom: 20px;
     color: black;
-    background-image: url('background.jpg');
+    background-image: url('\photo\background.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     width:100%;
