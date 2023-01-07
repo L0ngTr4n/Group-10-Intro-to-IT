@@ -1,7 +1,7 @@
 .bar
 {
     padding: 10px 0px;
-    background-color: blue;
+    background-color: rgba(15,10,222,0.2);
     color: white;
     width: 100%;
     height: auto;
@@ -18,10 +18,10 @@ body
 {
     margin: 0px;
     padding-top: 0;
+    background-color: lightblue;
 }
 #navBar 
 {
-    background-color: blue ;
     padding: 0px;
     width: 100%;
     align-items: center;
@@ -38,7 +38,7 @@ body
     padding-top: 30px;
     padding-bottom: 20px;
     color: black;
-    background-image: url('\photo\background.jpg');
+    background-image: url('images/background.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     width:100%;
@@ -80,6 +80,7 @@ a:active
 {
     margin-bottom: 0;
     margin-left: 20%;
+    font-size: 250%;
 }
 .subHeader
 {
@@ -109,6 +110,7 @@ a:active
 {
     width: 90%;
     height: auto;
+    
 }
 .avatar_2
 {
@@ -132,9 +134,38 @@ a:active
 }
 .Top_info table td
 {
-    width: 50%;
+    width: 10%;
 }
 .Top_info h3, .Top_info h4, .Top_info p, .Top_info a
 {
     font-size: 120%;
+}
+.tools_icon1
+{
+    float: left;
+    align-items: center;
+    padding-left: 27%;
+    width: 100px;
+    height: 100px;
+}
+.tools_name
+{
+    font-size: 300%;
+    float:left
+}
+.tools_icon2
+{
+    float: left;
+    align-items: center;
+    width: 100px;
+    height: 100px;
+}
+.tools_name_end
+{
+    font-size: 300%;
+}
+.text_III_IV .subHeader, .text_III_IV .subHeader
+{
+    padding-left: 23%;
+    font-size: 150%;
 }
