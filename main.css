@@ -98,7 +98,7 @@ a:active
 .assessmentTable1, .assessmentTable2, .assessmentTable3
 {
     border: 1px solid black;
-    width: auto;
+    width: 50%;
 }
 #navBarButton:hover
 {
@@ -144,7 +144,7 @@ a:active
 {
     float: left;
     align-items: center;
-    padding-left: 27%;
+    padding-left: 26.4%;
     width: 100px;
     height: 100px;
 }
@@ -164,8 +164,29 @@ a:active
 {
     font-size: 300%;
 }
+.reminder
+{
+    text-align: center;
+    font-size: 120%;
+}
 .text_III_IV .subHeader, .text_III_IV .subHeader
 {
     padding-left: 23%;
+    font-size: 200%;
+}
+.subHeader_V .subHeader
+{
+    text-align: center;
+    font-size: 250%
+}
+.assessmentTable1
+{
+    margin-left: auto;
+    margin-right: auto;
     font-size: 150%;
+    text-align: center;
+}
+.end
+{
+    border: 2px black;
 }
