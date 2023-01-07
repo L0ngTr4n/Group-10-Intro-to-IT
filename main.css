@@ -105,7 +105,22 @@ a:active
 }
 
 
-.Top_info img
+.avatar_1
+{
+    width: 90%;
+    height: auto;
+}
+.avatar_2
+{
+    width: 100%;
+    height: auto;
+}
+.avatar_3
+{
+    width: 100%;
+    height: auto;
+}
+.avatar_4
 {
     width: 100%;
     height: auto;
