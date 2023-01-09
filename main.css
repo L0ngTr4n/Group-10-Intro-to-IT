@@ -1,6 +1,6 @@
 .bar
 {
-    padding: 10px 0px;
+    padding: 1rem 0rem;
     background-color: rgba(15,10,222,0.2);
     color: white;
     width: 100%;
@@ -18,7 +18,7 @@ body
 {
     margin: 0px;
     padding-top: 0;
-    background-color: lightblue;
+    background: linear-gradient(to right, #8360c3, #2ebf91);
 }
 #navBar 
 {
