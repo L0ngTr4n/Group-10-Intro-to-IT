@@ -30,7 +30,7 @@ body
 }
 #navBar *
 {
-    font-size: large;
+    font-size: 1vw;
     display: inline-block;
 }
 .header
@@ -80,12 +80,13 @@ a:active
 {
     margin-bottom: 0;
     margin-left: 20%;
-    font-size: 250%;
+    font-size: 2vw;
 }
 .subHeader
 {
     padding-top: 10px;
     margin: 0;
+    font-size: 1.5vw;
 }
 .name
 {
@@ -138,52 +139,48 @@ a:active
 }
 .Top_info h3, .Top_info h4, .Top_info p, .Top_info a
 {
-    font-size: 120%;
+    font-size: 1.4vw;
 }
-.tools_icon1
+.tools
 {
     float: left;
+    width: 6%;
+    height: auto;
     align-items: center;
-    padding-left: 26.4%;
-    width: 100px;
-    height: 100px;
+    font-size: 2vw;
 }
-.tools_name
+.first_tool
 {
-    font-size: 300%;
-    float:left
+    padding-left: 27.2%;
+    width: 92%;
+    height: auto;
 }
-.tools_icon2
+.all_tools::after
 {
-    float: left;
-    align-items: center;
-    width: 100px;
-    height: 100px;
-}
-.tools_name_end
-{
-    font-size: 300%;
+    content: "";
+    display: table;
+    clear: both;
 }
 .reminder
 {
     text-align: center;
-    font-size: 120%;
+    font-size: 1.2vw;
 }
 .text_III_IV .subHeader, .text_III_IV .subHeader
 {
     padding-left: 23%;
-    font-size: 200%;
+    font-size: 1.7vw;
 }
 .subHeader_V .subHeader
 {
     text-align: center;
-    font-size: 250%
+    font-size: 2.0vw;
 }
 .assessmentTable1
 {
     margin-left: auto;
     margin-right: auto;
-    font-size: 150%;
+    font-size: 1.2vw;
     text-align: center;
 }
 .end
