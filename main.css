@@ -186,3 +186,7 @@ a:active
 {
     font-size: clamp(10px, 1vw, 100000px);
 }
+.careerPlan *
+{
+    list-style-type: disc;
+}
