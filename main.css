@@ -29,7 +29,7 @@ body
 }
 #navBar *
 {
-    font-size: clamp(15px, 1vw, 100000px);
+    font-size: clamp(10px, 1vw, 100000px);
     display: inline-block;
 }
 .header
@@ -79,13 +79,13 @@ a:active
 {
     margin-bottom: 0;
     margin-left: 20%;
-    font-size: clamp(35px, 2vw, 100000px);
+    font-size: clamp(20px, 2vw, 100000px);
 }
 .subHeader
 {
     padding-top: 10px;
     margin: 0;
-    font-size: clamp(25px, 1.5vw, 1000000px);
+    font-size: clamp(15px, 1.5vw, 1000000px);
 }
 .name
 {
@@ -138,7 +138,7 @@ a:active
 }
 .Top_info h3, .Top_info h4, .Top_info p, .Top_info a
 {
-    font-size: clamp(23px, 1.4vw, 100000px);
+    font-size: clamp(14px, 1.4vw, 100000px);
 }
 .tools
 {
@@ -163,26 +163,26 @@ a:active
 .reminder
 {
     text-align: center;
-    font-size: clamp(19px, 1.2vw, 100000px);
+    font-size: clamp(12px, 1.2vw, 100000px);
 }
 .text_III_IV .subHeader, .text_III_IV .subHeader
 {
     padding-left: 23%;
-    font-size: clamp(29px, 1.7vw, 100000px);
+    font-size: clamp(17px, 1.7vw, 100000px);
 }
 .subHeader_V .subHeader
 {
     text-align: center;
-    font-size: clamp(35px, 2.0vw, 100000px);
+    font-size: clamp(20px, 2.0vw, 100000px);
 }
 .assessmentTable1
 {
     margin-left: auto;
     margin-right: auto;
-    font-size: clamp(19px, 1.2vw, 100000px);
+    font-size: clamp(12px, 1.2vw, 100000px);
     text-align: center;
 }
 .end
 {
-    font-size: clamp(15px, 1vw, 100000px);
+    font-size: clamp(10px, 1vw, 100000px);
 }
