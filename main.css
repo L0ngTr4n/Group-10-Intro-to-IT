@@ -41,8 +41,8 @@ body
     background-image: url('images/background.jpg');
     background-size: cover;
     background-repeat: no-repeat;
-    width:100%;
-    height:100%;
+    width:auto;
+    height: auto;
 }
 .topHeader
 {
@@ -190,4 +190,11 @@ a:active
 {
     list-style-type: disc;
     font-size: x-large;
+}
+html, body{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
 }
