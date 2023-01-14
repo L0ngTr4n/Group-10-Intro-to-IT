@@ -200,7 +200,7 @@ html, body{
 }
 .description
 {
-    font-size: 1.2vw;
+    font-size: clamp(12px, 1.2vw, 1000000px);
     padding-left: 12%;
     padding-right: 12%;
 }
