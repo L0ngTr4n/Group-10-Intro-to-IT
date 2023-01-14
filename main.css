@@ -198,3 +198,9 @@ html, body{
     padding: 0px;
     overflow-x: hidden;
 }
+.description
+{
+    font-size: 1.2vw;
+    padding-left: 12%;
+    padding-right: 12%;
+}
