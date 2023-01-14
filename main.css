@@ -204,3 +204,7 @@ html, body{
     padding-left: 12%;
     padding-right: 12%;
 }
+.table_avatar
+{
+    vertical-align: top;
+}
