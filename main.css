@@ -165,7 +165,7 @@ a:active
     text-align: center;
     font-size: clamp(12px, 1.2vw, 100000px);
 }
-.text_III_IV .subHeader, .text_III_IV .subHeader
+.text_III_IV .subHeader
 {
     padding-left: 23%;
     font-size: clamp(17px, 1.7vw, 100000px);
@@ -201,8 +201,8 @@ html, body{
 .description
 {
     font-size: clamp(12px, 1.2vw, 1000000px);
-    padding-left: 12%;
-    padding-right: 12%;
+    padding-left: 23%;
+    padding-right: 20%;
 }
 .table_avatar
 {
