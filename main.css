@@ -213,3 +213,15 @@ html, body{
     list-style-type: square;
     padding-left: 1%;
 }
+.table
+{
+    padding-left: 23%;
+    padding-right: 23%;
+    border-spacing: 0px;
+}
+.tableData
+{
+    border: 1px solid black;
+    vertical-align: top;
+    padding: 0px;  
+}
