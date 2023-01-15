@@ -225,3 +225,9 @@ html, body{
     vertical-align: top;
     padding: 0px;  
 }
+.image
+{
+    padding-left: 23%;
+    width: 60%;
+    height: auto;
+}
