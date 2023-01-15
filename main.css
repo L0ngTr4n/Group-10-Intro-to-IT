@@ -59,8 +59,8 @@ body
 li
 {
     list-style-type: none;
-    padding-left: 4.1%;
-    padding-right: 4.2%;
+    padding-left: 3.2%;
+    padding-right: 3.2%;
 
 }
 a
@@ -224,6 +224,7 @@ html, body{
     border: 1px solid black;
     vertical-align: top;
     padding: 0px;  
+    font-size: clamp(12px, 1.2vw, 1000000px);
 }
 .image
 {
@@ -231,4 +232,13 @@ html, body{
     padding-right: 23%;
     width: 60%;
     height: auto;
+}
+.context
+{
+    text-align: center;
+}
+.link
+{
+    text-align: center;
+    font-size: clamp(12px, 1.2vw, 1000000px);
 }
