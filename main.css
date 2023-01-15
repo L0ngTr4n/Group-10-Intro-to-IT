@@ -208,3 +208,8 @@ html, body{
 {
     vertical-align: top;
 }
+.dataList
+{
+    list-style-type: square;
+    padding-left: 1%;
+}
